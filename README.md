@@ -28,6 +28,3 @@ This project was inspired by the guidance and dataset provided by Mo Chen from t
 - Incorporated a timeline for efficient date-based filtering.
 - Added slicers for size, roast type, and loyalty card status for easy data filtration.
 - Meticulously formatted all elements, ensuring a polished final dashboard.
-
-## Snapshot
-![Image](CoffeeOrdersDashboard.jpg)
